@@ -1,5 +1,7 @@
 # OBS: TER O (INSTALADOR DE APLICATIVOS e TERMINAL WINDOWS) instalados na Microsoft Store
 
+- INSTALADOR DE APLICATIVOS: https://apps.microsoft.com/detail/9NBLGGH4NNS1?hl=pt-mz&gl=MZ
+- TERMINAL WINDOWS: https://apps.microsoft.com/detail/9N0DX20HK701?hl=pt-br&gl=BR
 ## Ferramentas e Scripts do Windows
 
 Este repositório contém uma coleção de utilitários e scripts para otimizar e reparar instalações do Windows.
