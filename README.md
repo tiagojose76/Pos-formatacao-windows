@@ -17,10 +17,6 @@ Este repositório contém uma coleção de utilitários e scripts para otimizar 
 - **scannow.bat**: Script para escanear e corrigir arquivos do sistema do Windows.
 - **winget.ps1**: Script para instalação automatizada de uma série de aplicativos essenciais para programação Front-end.
 
-## Instruções de Uso
-
-Cada ferramenta/script neste repositório possui suas próprias instruções de uso. Consulte a documentação específica de cada uma para mais detalhes.
-
 ## Contribuições
 
 Contribuições para este repositório são bem-vindas. Sinta-se à vontade para abrir um pull request ou uma issue para sugerir melhorias ou novos scripts.
