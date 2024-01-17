@@ -1,4 +1,6 @@
-# Ferramentas e Scripts do Windows
+# OBS: TER O (INSTALADOR DE APLICATIVOS e TERMINAL WINDOWS) instalados na Microsoft Store
+
+## Ferramentas e Scripts do Windows
 
 Este repositório contém uma coleção de utilitários e scripts para otimizar e reparar instalações do Windows.
 
