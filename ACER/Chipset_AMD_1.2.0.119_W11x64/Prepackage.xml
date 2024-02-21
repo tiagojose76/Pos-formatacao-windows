@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModulePN>MOD01?????00??????</ModulePN>
+  <Creator PN="01" Name="Acer-HQ1" />
+  <Type PN="" Name="Drivers" />
+  <Module PN="" Name="AMD AMD Chipset" Alias="" GUID="" Serial="AMD Chipset" Provider="AMD" Class="AMD Chipset" />
+  <WOS PN="93" Sku="WN All" CPU="X64" />
+  <Lang>All language</Lang>
+  <ModuleVersion>v4.07.05.238</ModuleVersion>
+  <DriverVersion>v1.2.0.119</DriverVersion>
+  <OptionVersion>AMD_Chipset_Software.exe /S</OptionVersion>
+  <ProjectCodeName>NULL</ProjectCodeName>
+  <OdmName>NBCOM</OdmName>
+  <ModuleTimeout>0</ModuleTimeout>
+  <InstallPreiod>UserAlaunch</InstallPreiod>
+  <Reboot>False</Reboot>
+  <Delete>False</Delete>
+  <ReinstallProcessList>
+    <Process Country="" OS-Language="" OS-Sku="" Check="" Timeout="0" RetCode="-" Params="" Exec="%RELATIVE_PATH%\AMD_Chipset_Software.exe" Order="00" Period="" />
+  </ReinstallProcessList>
+  <AutoRun>True</AutoRun>
+  <InstallPath />
+  <Description />
+  <ProcessList>
+    <Process Country="" OS-Language="" OS-Sku="" Check="False" Timeout="60" RetCode="-" Params="/S" Exec="%RELATIVE_PATH%\AMD_Chipset_Software.exe" Order="00" Period="" />
+  </ProcessList>
+  <RegItemList />
+  <ModuleProperty>RCD,STCD,RSCD</ModuleProperty>
+  <HWIDs>ACPI\VEN_AMDI&amp;DEV_0010</HWIDs>
+  <AutoCheckHWID>True</AutoCheckHWID>
+  <CheckRemove>True</CheckRemove>
+  <MVPKernelVersion>2.0.7.3</MVPKernelVersion>
+  <MVPUIVersion>2.0.8.5</MVPUIVersion>
+  <LOB>Notebook</LOB>
+</ModuleInfo>
