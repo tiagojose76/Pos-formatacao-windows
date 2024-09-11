@@ -11,12 +11,14 @@ Este repositório contém uma coleção de utilitários e scripts para otimizar 
 
 ## Utilitários
 
+- **Office**: Intruções para a instalação do pacote Office gratuitamente da Microsoft.
 - **DISM**: Utilitário para reparação e preparação de imagens do Windows.
 - **Desempenho Máximo**: Script que adiciona um novo perfil de energia para otimizar o desempenho.
 - **Atualizar Tudo**: Atualiza todos os aplicativos do Windows usando o Winget via terminal.
 - **Chkdsk**: Ferramenta para verificar e corrigir problemas no disco rígido e nos arquivos do sistema.
 - **Scan**: Script para escanear e corrigir arquivos do sistema do Windows.
 - **Dxwebsetup.zip**: Pacote com todos os arquivos C++ essenciais e o DirectX para Windows.
+
 
 ## Scripts
 
