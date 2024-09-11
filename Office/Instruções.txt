@@ -1,0 +1,22 @@
+- Crie uma pasta 'Office' no seu disco C
+- Coloque o arquivo Configuration.xml dentro desta pasta
+- Execute o 'officedeploymenttool_17830-20162.exe' e escolha a pasta 'Office' no seu disco C
+
+
+NO CMD EXECUTE ESSES COMANDOS:
+
+cd \
+cd office
+.\setup.exe /configure configuration.xml
+
+
+Caso não tenha uma conta outlook, use essa chave de ativação DENTRO DE UMA APLICAÇÃO OFFICE:
+
+Y63J7-9RNDJ-GD3BV-BDKBP-HH966
+
+
+------------------------------------
+
+Site para instruções diretamente da Microsoft:
+download: https://www.microsoft.com/en-us/download/details.aspx?id=49117
+Office códigos XML: https://learn.microsoft.com/en-us/office/ltsc/preview/install-ltsc-preview
